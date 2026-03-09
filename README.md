@@ -1,105 +1,151 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Batna%20Yamini&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=AI%20%26%20Machine%20Learning%20Student&descSize=18&descAlignY=60&descColor=a0c4ff" />
-</p>
+<!-- Animated Header with Particles -->
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Student;Building+Intelligent+Systems;AI-Powered+Web+Application+Developer;Aspiring+AI+Researcher" />
-  </a>
-</p>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1b2a,60:1b2a4a,100:0d2137&height=250&section=header&text=Batna%20Yamini&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=00d4ff&stroke=00d4ff&strokeWidth=1&desc=AI%20%26%20Machine%20Learning%20Student&descSize=20&descAlignY=62&descColor=7eb8d4" />
 
-<!-- Quick Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.7%2F10-4A90D9?style=flat-square&logo=academia"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ecc71?style=flat-square"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-blueviolet?style=flat-square&logo=python"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=YaminiBatna&style=flat-square&color=4A90D9&label=Profile+Views"/>
-</p>
+<!-- Glitch Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=AI+%26+Machine+Learning+Student+%F0%9F%A7%A0;Building+Intelligent+Systems+%E2%9A%99%EF%B8%8F;AI-Powered+Web+App+Developer+%F0%9F%9A%80;Aspiring+AI+Researcher+%F0%9F%94%AC;CGPA%3A+8.7+%7C+NRI+Institute+of+Technology+%F0%9F%8F%AB" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Animated Badges Row -->
+<img src="https://img.shields.io/badge/CGPA-8.7%2F10-00d4ff?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1b2a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&logoColor=white&labelColor=0d2137"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-7b2fff?style=for-the-badge&logo=python&logoColor=white&labelColor=1a0a3a"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=YaminiBatna&style=for-the-badge&color=00d4ff&label=Profile+Views&labelColor=0d1b2a"/>
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-> *"Motivated undergraduate passionate about building AI-powered solutions for real-world problems."*
+<img align="right" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623032622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b7369377a654a7778776f6b6d4f7750687963363539306c4f4143574e736e4c294c575056393a535558494f4545584c332e516862633145515f39654f3149554942526c3847503342332e6e3453394950354c616e36355a5667476434307a6f5a7948725a6e3874334b38596f454136564d524c654d486f4b564e7143334a354d38327a5476764d2f436f64696e672e676966" />
 
-- 🎓 **B.Tech in Artificial Intelligence & Machine Learning** — NRI Institute of Technology, Vijayawada *(2023 – Present)*
-- 📊 **CGPA: 8.7**
-- 🧠 Interested in **ML applications, intelligent decision systems, and AI-powered web development**
-- 🔬 Aspiring to contribute to **cutting-edge AI research**
-- 📫 Reach me at **yaminibatna@gmail.com**
+> *✨ "Motivated undergraduate passionate about building AI-powered solutions for real-world problems."*
+
+```yaml
+name: Batna Yamini
+location: Vijayawada, India 🇮🇳
+education:
+  degree: B.Tech in AI & Machine Learning
+  institute: NRI Institute of Technology
+  year: 2023 – Present
+  cgpa: 8.7 / 10.0
+interests:
+  - ML Applications & Intelligent Systems
+  - AI-Powered Web Development
+  - Healthcare AI Solutions
+  - Cutting-Edge AI Research
+contact: yaminibatna@gmail.com
+status: Open to Internships & Research Opportunities 🚀
+```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Arsenal
 
-### Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<!-- Animated Tech Stack using animated icons -->
 
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,django" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</p>
+<div align="center">
 
-### AI Tools & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/GPT_Models-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Perplexity_AI-1C1C1C?style=flat-square&logoColor=white"/>
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css&theme=dark&perline=5" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### ⚡ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django&theme=dark&perline=4" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+### 🤖 AI Tools & APIs
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT_Models-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Perplexity_AI-1C1C1C?style=for-the-badge&logoColor=white"/>
+
+### 🛠 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<!-- Project 1 -->
+<a href="#">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaminiBatna&repo=multi-disease-prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff" />
+</a>
+
+<!-- Project 2 -->
+<a href="#">
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaminiBatna&repo=chess-engine-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff" />
+</a>
+
+</div>
+
+<br/><br/><br/><br/><br/><br/>
+
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 20px;">
       <h3>🩺 AI Multi-Disease Prediction System</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-00ff88?style=flat-square"/>
       <p><strong>Stack:</strong> Python · Streamlit · Scikit-learn</p>
       <ul>
-        <li>Predicts <strong>Diabetes, Heart Disease, Parkinson's</strong></li>
-        <li>Uses <strong>40+ clinical input features</strong></li>
-        <li>Real-time predictions with interactive UI</li>
+        <li>🫀 Predicts <strong>Diabetes, Heart Disease, Parkinson's</strong></li>
+        <li>📊 Uses <strong>40+ clinical input features</strong></li>
+        <li>⚡ Real-time predictions with interactive UI</li>
+        <li>🏥 Deployed as full-stack healthcare web app</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 20px;">
       <h3>♟ ML-Powered Chess Engine</h3>
+      <img src="https://img.shields.io/badge/Status-Completed-00ff88?style=flat-square"/>
       <p><strong>Stack:</strong> Python · Django · Scikit-learn</p>
       <ul>
-        <li>Implemented <strong>Minimax + Alpha-Beta Pruning</strong></li>
-        <li><strong>Random Forest</strong> model for board evaluation</li>
-        <li>Interactive web-based interface</li>
+        <li>🧮 Implemented <strong>Minimax + Alpha-Beta Pruning</strong></li>
+        <li>🌲 <strong>Random Forest</strong> model for board evaluation</li>
+        <li>🌐 Interactive web-based chess interface</li>
+        <li>🤖 AI opponent with strategic depth evaluation</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -109,66 +155,114 @@
 
 ## 💼 Experience
 
-**AI Transformative Learning Intern — TechSaksham** *(2025)*
+<div align="center">
 
-- Developed a **multi-disease prediction ML web application**
-- Integrated **multiple pretrained models** for diverse healthcare predictions
-- Built an interactive, real-time UI using **Streamlit**
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🏢  TechSaksham  |  AI Transformative Learning Intern      │
+│  📅  2025                                                   │
+│                                                             │
+│  ✅  Developed multi-disease prediction ML web application  │
+│  ✅  Integrated multiple pretrained models for healthcare   │
+│  ✅  Built real-time interactive UI using Streamlit         │
+│  ✅  Applied supervised ML pipelines end-to-end             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
+<div align="center">
+
 | 🏁 Hackathons | 📜 Certifications |
-|---|---|
-| AI Agents Hackathon — RGUKT IIIT Nuzvid | TechSaksham AI Internship Certificate |
-| AIgnite Hackathon — PB Siddhartha College | Python Programming — GeeksforGeeks |
+|:---|:---|
+| 🥇 AI Agents Hackathon — RGUKT IIIT Nuzvid | 🎓 TechSaksham AI Internship Certificate |
+| ⚡ AIgnite Hackathon — PB Siddhartha College | 🐍 Python Programming — GeeksforGeeks |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YaminiBatna&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaminiBatna&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaminiBatna&theme=github-dark-blue&hide_border=true"/>
-</p>
+<!-- Animated Stats with glow effect -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaminiBatna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&include_all_commits=true&count_private=true&border_radius=12"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaminiBatna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12"/>
+
+<br/>
+
+<!-- Animated Streak Stats -->
+<img width="70%" src="https://streak-stats.demolab.com?user=YaminiBatna&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=12"/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YaminiBatna&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=7b2fff&point=00d4ff&area=true&area_color=7b2fff"/>
+
+</div>
 
 ---
 
 ## 🏅 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YaminiBatna&theme=nord&row=1&column=6&no-frame=true&margin-w=8"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YaminiBatna&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=10&no-bg=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaminiBatna&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaminiBatna&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YaminiBatna&theme=tokyonight"/>
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/yamini-batna">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yaminibatna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/YaminiBatna">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/yamini-batna">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a"/>
+</a>
+&nbsp;
+<a href="mailto:yaminibatna@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a"/>
+</a>
+&nbsp;
+<a href="https://github.com/YaminiBatna">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a"/>
+</a>
+
+<br/><br/>
+
+<!-- Animated Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Building+AI+solutions+today+for+a+smarter+tomorrow&author=Batna+Yamini"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <em>✨ Building AI solutions today for a smarter tomorrow. ✨</em>
-</p>
+<!-- Animated Footer -->
+<div align="center">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:0d2137&height=150&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling&fontAlignY=65"/>
+
+</div>
