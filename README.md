@@ -131,87 +131,68 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=7B2FFF&center=true&vCenter=true&width=600&lines=🛠️+Turning+Ideas+into+Intelligent+Systems;💡+ML+%7C+Web+%7C+Healthcare+%7C+Chess+AI;🚀+Real-World+Impact+through+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=650&lines=🎨+Building+Colorful+Intelligent+Systems;💡+Healthcare+AI+%7C+Chess+Engine+%7C+Web+Apps;🚀+Turning+Ideas+into+Real-World+Impact!" />
+
+</div>
 
 <br/>
 
-<!-- ═══════════════ PROJECT 1 ═══════════════ -->
-<table>
-<tr>
-<td>
+---
 
-<img src="https://img.shields.io/badge/PROJECT_01-%23FF4B4B.svg?style=for-the-badge&labelColor=1a0000&color=ff4b4b&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🩺_AI_Multi--Disease_Prediction_System-ff4b4b?style=for-the-badge&labelColor=2a0000"/>
+### 🩺 Project 1 — AI Multi-Disease Prediction System
 
-<br/><br/>
+<img align="right" width="300" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-<img src="https://img.shields.io/badge/STATUS-✅%20Completed-00ff88?style=flat-square&labelColor=0a2a1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TYPE-🏥%20Healthcare%20AI-ff4b4b?style=flat-square&labelColor=2a0000"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DOMAIN-Machine%20Learning-F7931E?style=flat-square&labelColor=2a1000"/>
+<img src="https://img.shields.io/badge/🏥_Healthcare_AI-FF6B6B?style=for-the-badge&labelColor=2a0010"/>
+<img src="https://img.shields.io/badge/✅_Status-Completed-00ff88?style=for-the-badge&labelColor=0a2a1a"/>
 
 <br/><br/>
 
-```
-🫀  Predicts  →  Diabetes | Heart Disease | Parkinson's
-📊  Features  →  40+ Clinical Input Parameters
-⚡  Output    →  Real-time Predictions + Interactive UI
-🏥  Deploy    →  Full-Stack Healthcare Web Application
-```
+🎯 **What it does:**
+- 🫀 Predicts **Diabetes**, **Heart Disease** & **Parkinson's**
+- 📊 Processes **40+ clinical input features** per patient
+- ⚡ Delivers **real-time predictions** via interactive UI
+- 🌐 Deployed as a **full-stack healthcare web app**
 
 <br/>
+
+🛠️ **Tech Stack:**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
-<br/>
+---
 
-<!-- ═══════════════ PROJECT 2 ═══════════════ -->
-<table>
-<tr>
-<td>
+### ♟️ Project 2 — ML-Powered Chess Engine
 
-<img src="https://img.shields.io/badge/PROJECT_02-%237B2FFF.svg?style=for-the-badge&labelColor=0d001a&color=7b2fff&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/♟_ML--Powered_Chess_Engine-7b2fff?style=for-the-badge&labelColor=0d001a"/>
+<img align="right" width="300" src="https://media.giphy.com/media/dxITs87fTAxTncZ6WL/giphy.gif"/>
+
+<img src="https://img.shields.io/badge/🤖_Game_AI-7B2FFF?style=for-the-badge&labelColor=0d001a"/>
+<img src="https://img.shields.io/badge/✅_Status-Completed-00ff88?style=for-the-badge&labelColor=0a2a1a"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-✅%20Completed-00ff88?style=flat-square&labelColor=0a2a1a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TYPE-🤖%20Game%20AI-7b2fff?style=flat-square&labelColor=0d001a"/>
-&nbsp;
-<img src="https://img.shields.io/badge/DOMAIN-ML%20%2B%20Web%20Dev-00d4ff?style=flat-square&labelColor=001a2a"/>
-
-<br/><br/>
-
-```
-🧮  Algorithm  →  Minimax + Alpha-Beta Pruning
-🌲  Model      →  Random Forest Board Evaluation
-🌐  Interface  →  Interactive Web-Based Chess UI
-🤖  Feature    →  AI Opponent with Strategic Depth
-```
+🎯 **What it does:**
+- 🧮 Implements **Minimax + Alpha-Beta Pruning** algorithm
+- 🌲 Uses **Random Forest** model for board state evaluation
+- 🌐 Runs on a clean **interactive web-based interface**
+- 🤖 AI opponent with **multi-level strategic depth**
 
 <br/>
+
+🛠️ **Tech Stack:**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-</td>
-</tr>
-</table>
-
-</div>
+<br clear="right"/>
 
 ---
 
@@ -219,19 +200,33 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🏢  TechSaksham  |  AI Transformative Learning Intern      │
-│  📅  2025                                                   │
-│                                                             │
-│  ✅  Developed multi-disease prediction ML web application  │
-│  ✅  Integrated multiple pretrained models for healthcare   │
-│  ✅  Built real-time interactive UI using Streamlit         │
-│  ✅  Applied supervised ML pipelines end-to-end             │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=💼+Professional+Experience;🏢+AI+Transformative+Learning+Intern;🚀+TechSaksham+%7C+2025" />
 
 </div>
+
+<br/>
+
+<img align="left" width="260" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+
+### 🏢 TechSaksham — AI Transformative Learning Intern
+#### 📅 2025
+
+<br/>
+
+| 🎯 Task | 📝 Description |
+|:---|:---|
+| 🤖 ML App | Built multi-disease prediction web application |
+| 🔗 Integration | Integrated multiple pretrained models for healthcare |
+| 🎨 UI/UX | Designed real-time interactive Streamlit interface |
+| ⚙️ Pipeline | Applied supervised ML pipelines end-to-end |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Internship-TechSaksham-FFD700?style=for-the-badge&labelColor=2a2000"/>
+<img src="https://img.shields.io/badge/Domain-AI%20%26%20ML-FF6B6B?style=for-the-badge&labelColor=2a0010"/>
+<img src="https://img.shields.io/badge/Year-2025-00d4ff?style=for-the-badge&labelColor=001a2a"/>
+
+<br clear="left"/>
 
 ---
 
