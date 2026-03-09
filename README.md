@@ -131,56 +131,87 @@
 
 <div align="center">
 
-<!-- Project 1 -->
-<a href="#">
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaminiBatna&repo=multi-disease-prediction&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=800&color=7B2FFF&center=true&vCenter=true&width=600&lines=🛠️+Turning+Ideas+into+Intelligent+Systems;💡+ML+%7C+Web+%7C+Healthcare+%7C+Chess+AI;🚀+Real-World+Impact+through+Code" />
 
-<!-- Project 2 -->
-<a href="#">
-<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YaminiBatna&repo=chess-engine-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff" />
-</a>
+<br/>
+
+<!-- ═══════════════ PROJECT 1 ═══════════════ -->
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/PROJECT_01-%23FF4B4B.svg?style=for-the-badge&labelColor=1a0000&color=ff4b4b&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🩺_AI_Multi--Disease_Prediction_System-ff4b4b?style=for-the-badge&labelColor=2a0000"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-✅%20Completed-00ff88?style=flat-square&labelColor=0a2a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TYPE-🏥%20Healthcare%20AI-ff4b4b?style=flat-square&labelColor=2a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DOMAIN-Machine%20Learning-F7931E?style=flat-square&labelColor=2a1000"/>
+
+<br/><br/>
+
+```
+🫀  Predicts  →  Diabetes | Heart Disease | Parkinson's
+📊  Features  →  40+ Clinical Input Parameters
+⚡  Output    →  Real-time Predictions + Interactive UI
+🏥  Deploy    →  Full-Stack Healthcare Web Application
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ PROJECT 2 ═══════════════ -->
+<table>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/PROJECT_02-%237B2FFF.svg?style=for-the-badge&labelColor=0d001a&color=7b2fff&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/♟_ML--Powered_Chess_Engine-7b2fff?style=for-the-badge&labelColor=0d001a"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-✅%20Completed-00ff88?style=flat-square&labelColor=0a2a1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TYPE-🤖%20Game%20AI-7b2fff?style=flat-square&labelColor=0d001a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/DOMAIN-ML%20%2B%20Web%20Dev-00d4ff?style=flat-square&labelColor=001a2a"/>
+
+<br/><br/>
+
+```
+🧮  Algorithm  →  Minimax + Alpha-Beta Pruning
+🌲  Model      →  Random Forest Board Evaluation
+🌐  Interface  →  Interactive Web-Based Chess UI
+🤖  Feature    →  AI Opponent with Strategic Depth
+```
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" style="padding: 20px;">
-      <h3>🩺 AI Multi-Disease Prediction System</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-00ff88?style=flat-square"/>
-      <p><strong>Stack:</strong> Python · Streamlit · Scikit-learn</p>
-      <ul>
-        <li>🫀 Predicts <strong>Diabetes, Heart Disease, Parkinson's</strong></li>
-        <li>📊 Uses <strong>40+ clinical input features</strong></li>
-        <li>⚡ Real-time predictions with interactive UI</li>
-        <li>🏥 Deployed as full-stack healthcare web app</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="padding: 20px;">
-      <h3>♟ ML-Powered Chess Engine</h3>
-      <img src="https://img.shields.io/badge/Status-Completed-00ff88?style=flat-square"/>
-      <p><strong>Stack:</strong> Python · Django · Scikit-learn</p>
-      <ul>
-        <li>🧮 Implemented <strong>Minimax + Alpha-Beta Pruning</strong></li>
-        <li>🌲 <strong>Random Forest</strong> model for board evaluation</li>
-        <li>🌐 Interactive web-based chess interface</li>
-        <li>🤖 AI opponent with strategic depth evaluation</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
