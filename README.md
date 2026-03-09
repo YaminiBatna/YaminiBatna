@@ -37,28 +37,59 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
 
-> *✨ "Motivated undergraduate passionate about building AI-powered solutions for real-world problems."*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=%E2%9C%A8+Motivated+undergraduate+passionate+about+AI;%F0%9F%9A%80+Building+intelligent+solutions+for+real+problems;%F0%9F%94%AC+Aspiring+AI+Researcher+%7C+CGPA+8.7" />
 
-```yaml
-name: Batna Yamini
-location: Vijayawada, India 🇮🇳
-education:
-  degree: B.Tech in AI & Machine Learning
-  institute: NRI Institute of Technology
-  year: 2023 – Present
-  cgpa: 8.7 / 10.0
-interests:
-  - ML Applications & Intelligent Systems
-  - AI-Powered Web Development
-  - Healthcare AI Solutions
-  - Cutting-Edge AI Research
-contact: yaminibatna@gmail.com
-status: Open to Internships & Research Opportunities 🚀
-```
+<br/>
 
-<br clear="right"/>
+| 🎓 Education | 📍 Location | 📊 CGPA |
+|:---:|:---:|:---:|
+| B.Tech in AI & ML | Vijayawada, India 🇮🇳 | **8.7 / 10.0** |
+| NRI Institute of Technology | Andhra Pradesh | 2023 – Present |
+
+<br/>
+
+<img src="https://img.shields.io/badge/🧠_ML_Applications-Intelligent%20Systems-00d4ff?style=for-the-badge&labelColor=0d1b2a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🌐_AI_Web_Dev-Full%20Stack%20AI-7b2fff?style=for-the-badge&labelColor=1a0a3a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🏥_Healthcare_AI-Prediction%20Systems-00ff88?style=for-the-badge&labelColor=0a2a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/🔬_AI_Research-Cutting%20Edge-ff6b6b?style=for-the-badge&labelColor=2a0a0a" />
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="240">
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-00d4ff?style=flat-square&color=00d4ff"/><br/>
+      <strong>🙋 Personal</strong><br/><br/>
+      <img src="https://img.shields.io/badge/👤_Name-Batna%20Yamini-00d4ff?style=flat-square&labelColor=0d1b2a"/><br/>
+      <img src="https://img.shields.io/badge/📧_Email-yaminibatna%40gmail-00d4ff?style=flat-square&labelColor=0d1b2a"/><br/>
+      <img src="https://img.shields.io/badge/📍_City-Vijayawada%2C%20India-00d4ff?style=flat-square&labelColor=0d1b2a"/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-00d4ff?style=flat-square&color=00d4ff"/>
+    </td>
+    <td align="center" width="240">
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-7b2fff?style=flat-square&color=7b2fff"/><br/>
+      <strong>🎓 Academic</strong><br/><br/>
+      <img src="https://img.shields.io/badge/🏫_College-NRI%20Institute-7b2fff?style=flat-square&labelColor=1a0a3a"/><br/>
+      <img src="https://img.shields.io/badge/📚_Degree-B.Tech%20AI%20%26%20ML-7b2fff?style=flat-square&labelColor=1a0a3a"/><br/>
+      <img src="https://img.shields.io/badge/🏆_CGPA-8.7%20%2F%2010.0-7b2fff?style=flat-square&labelColor=1a0a3a"/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-7b2fff?style=flat-square&color=7b2fff"/>
+    </td>
+    <td align="center" width="240">
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-00ff88?style=flat-square&color=00ff88"/><br/>
+      <strong>💼 Status</strong><br/><br/>
+      <img src="https://img.shields.io/badge/🎯_Focus-AI%20%26%20ML-00ff88?style=flat-square&labelColor=0a2a1a"/><br/>
+      <img src="https://img.shields.io/badge/🌍_Language-English%20%7C%20Telugu-00ff88?style=flat-square&labelColor=0a2a1a"/><br/>
+      <img src="https://img.shields.io/badge/⚡_Available-Open%20to%20Internships-00ff88?style=flat-square&labelColor=0a2a1a"/><br/>
+      <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━-00ff88?style=flat-square&color=00ff88"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
